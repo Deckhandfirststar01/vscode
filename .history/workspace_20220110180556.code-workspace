@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cglicenses.json": "jsonc"
+		},
+		"typescript.tsdk": "node_modules/typescript/lib",
+		"git.ignoreLimitWarning": true,
+		"remote.extensionKind": {
+			"msjsdiag.debugger-for-chrome": "workspace"
+		}
+	}
+}
